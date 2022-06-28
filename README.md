@@ -30,8 +30,8 @@ npm i
 
 ### Screenshots
 
-<!-- ![Note-Taker: Erik Williams](/images/shot.png)
-![Note-Taker: Erik Williams](/images/shot2.png) -->
+![Pizza Hunt: Erik Williams](public\assets\images\pizza.png)
+<!-- ![Note-Taker: Erik Williams](/images/shot2.png)  -->
 
 ### Contact
 
