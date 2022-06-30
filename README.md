@@ -11,12 +11,6 @@ Pizza Hunt—a self-aware riff on social-media applications that already exist f
 - Node.js
 - Express.js
 
-## Description
-
-### User Story
-
-### Acceptance Criteria
-
 ## Install
 
 Clone project.
@@ -25,8 +19,14 @@ Run the following line of code in your terminal to install all the needed packag
 npm i
 ```
 
+## Run
+```
+npm start
+```
+
+
 ### Website Link
-<!-- Check out the deployed app here: [Note Taker](https://calm-taiga-46703.herokuapp.com/) -->
+https://vast-beach-16114.herokuapp.com/
 
 ### Screenshots
 
