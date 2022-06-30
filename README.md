@@ -26,7 +26,7 @@ npm start
 
 
 ### Website Link
-https://vast-beach-16114.herokuapp.com/
+![Pizza-Hunt](https://vast-beach-16114.herokuapp.com/)
 
 ### Screenshots
 
