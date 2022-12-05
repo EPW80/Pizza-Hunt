@@ -1,0 +1,28 @@
+{
+  "name": "18-nosql",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pizza Hunt—a self-aware riff on social-media applications that already exist for other topics—lets users connect with each other based on their love of pizza. In Pizza Hunt, users can share and discuss their dream pizza-topping combinations. Pizza is ubiquitous in everyday life all over the world, and no application has ever been created with the sole purpose of facilitating discussions about it.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EPW80/Pizza-Hunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EPW80/Pizza-Hunt/issues"
+  },
+  "homepage": "https://github.com/EPW80/Pizza-Hunt#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
