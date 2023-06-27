@@ -1,6 +1,6 @@
 # Pizza-Hunt: A Progressive Web App for Pizza Enthusiasts
 
-Welcome to Pizza-Hunt! This is a unique, engaging, and interactive Progressive Web Application (PWA) dedicated to pizza lovers across the globe. Users can share their favorite pizza recipes, engage in lively discussions, and even build their own pizza creations. Thanks to its PWA nature, Pizza-Hunt allows for offline inputs that will sync once the user is back online. Discuss, comment, and reply to pizza recipes at any time, anywhere!
+Welcome to Pizza Hunt! This is a unique, engaging, and interactive Progressive Web Application (PWA) dedicated to pizza lovers across the globe. Users can share their favorite pizza recipes, engage in lively discussions, and even build their own creations. Thanks to its PWA nature, Pizza Hunt allows for offline inputs that will sync once the user is back online. Discuss, comment, and reply to pizza recipes at any time, anywhere!
 
 ## Key Features
 
@@ -11,12 +11,8 @@ Offline Capabilities: Thanks to IndexedDB and the Cache API, Pizza-Hunt function
 
 ## Built With
 
-- HTML
-- CSS
 - Mongoose
 - Mongo
-- JavaScript
-- Node.js
 - Express.js
 
 ## Prerequisites
@@ -27,7 +23,7 @@ Node.js installed on your machine
 
 Clone project.
 
-Run the following line of code in your terminal to install all the needed packages:
+Run the following line of code in your terminal to install all the necessary packages:
 
 ```
 npm install
@@ -39,9 +35,9 @@ npm install
 npm start
 ```
 
-## Heroku
+## Deployment
 
-[deployment](https://vast-beach-16114.herokuapp.com/add-pizza)
+[Heroku](https://vast-beach-16114.herokuapp.com/add-pizza)
 
 ## Screenshots
 
